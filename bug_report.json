@@ -1,1 +1,11 @@
-
+{
+	"id": 1,
+	"title": "При нажатии кнопки - \"Войти\" на странице авторизации, сервер выдает 404 ошибку",
+	"STR": "1 Нажать кнопку - \"Авторизация\" \n 2. Ввести логин - Georgiy,\n 3. Ввести пароль - 123456789,\n 4. Нажать кнопку - \"Войти\"",
+	"reporter": "Georgiy Debrin",
+	"severity": "Blocker",
+	"priority": "High",
+	"environment": "Google Chrome 112.0.5615.137",
+	"attachment": "bug.jpg",
+	"assignee": "Georgiy Debrin"
+}
